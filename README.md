@@ -1,2 +1,0 @@
-# hoopsfront
-Created with CodeSandbox
